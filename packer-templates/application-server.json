@@ -82,6 +82,7 @@
         "size": "512mb",
         "droplet_name": "udacity-devops",
         "private_networking": true
+        "ssh_username": "ubuntu"
       }
   ],
 
